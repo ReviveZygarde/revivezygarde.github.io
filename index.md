@@ -1,4 +1,4 @@
-### Welcome
+# Welcome
 
 Welcome to my portfolio page. This is brand new, so for now this site will look rather... lackluster.
 
