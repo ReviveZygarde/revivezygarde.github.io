@@ -3,7 +3,7 @@
 Welcome to my portfolio page. This is brand new, so for now this site will look rather... lackluster.
 
 ## About Me
-I am newbie when it comes to programming, I've been learning for around 3 months now. I'm glad I'm learning THE actual thing.
+I am newbie when it comes to programming, I've been learning for around 3 months now. I'm just glad I'm learning THE actual thing.
 At the moment, I am learning C#. All of my programs will be written in that language.
 My hobbies 
 
