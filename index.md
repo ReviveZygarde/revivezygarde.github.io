@@ -24,7 +24,7 @@ I had a lot of fun with this, and it felt like it was much less intimidating tha
 ![](https://i.imgur.com/u5LZpxY.png)
 
 ### [GUI Group Project 1](https://github.com/ReviveZygarde/group-GUI-project-1)
-Basically a super simplified version of cookie clicker, where you input anything in the text box, and click on the button as many times until it tells you've clicked an X amount. That X value is random.
+Basically a super simplified version of cookie clicker made by me, Grace, and Alex. Input anything in the text box, and click on the button as many times until it tells you've clicked an X amount. That X value is random.
 
 
 ![](https://i.imgur.com/SU2HfhY.png)
