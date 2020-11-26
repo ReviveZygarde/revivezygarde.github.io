@@ -5,7 +5,7 @@ Welcome to my portfolio page. This is brand new, so for now this site will look 
 
 ## About Me
 I am newbie when it comes to programming, I've been learning for around 3 months now. I'm just glad I'm learning THE actual thing.
-At the moment, I am learning C#, so all of my programs will be written in that language.
+At the moment, I am learning C#, so all of my programs will be written in that language. I dream of learning MIPS Assembly.
 My hobbies are usually reverse-engineering/datamining games ~~(I play PSO2 JP @ Ship02)~~, playing them, anime, and other computer-y things that aren't programming or coding xD
 
 ## My Projects
